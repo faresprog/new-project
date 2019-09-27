@@ -1,0 +1,59 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+	padding: 0;
+	margin: 0;
+}
+header {
+	background-image: url(../images/home_main_desktop.jpg);
+	height: 583px;
+	width: 100%;
+	background-size: cover, contain;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+h1 {
+	background: white;
+	color: black;
+	padding: 15px;
+	margin: 5px;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+article {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	background-color: black;
+	height: 40px;
+
+}
+
+.P1 {
+	color: white; 
+	height: 7px;
+	padding: 18px;
+    line-height: 3px;
+		
+
+} 
+
+.P2 {
+	color: white;
+	height: 7px;
+	padding: 18px;
+    line-height: 3px;
+}
+.fa {
+
+	color: white;
+	font-size: 84px;
+}
+button {
+	padding: 10px;
+ 
+}
